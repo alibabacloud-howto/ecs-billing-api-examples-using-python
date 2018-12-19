@@ -1,0 +1,7 @@
+Other Cloud Specs,Alibaba Cloud Instance,System_disk_storage,Data_Disk_Storage,Subscription_Type,Order_Type,Quantity,Billing_Period,Region,OS_Type,System_Disk_Type,Data_Disk_Type,Price,currency
+c4.4xlarge,ecs.sn1ne.4xlarge,100,400,Subscription,NewOrder,1,Month,ap-south-1,linux,cloud_efficiency,cloud_efficiency,,
+c4.4xlarge,ecs.sn1ne.4xlarge,100,400,Subscription,NewOrder,1,Month,ap-south-1,linux,cloud_efficiency,cloud_efficiency,,
+c4.2xlarge,ecs.sn1ne.2xlarge,100,400,Subscription,NewOrder,1,Month,ap-south-1,linux,cloud_efficiency,cloud_efficiency,,
+m4.large,ecs.sn2ne.large,100,400,Subscription,NewOrder,1,Month,ap-south-1,linux,cloud_efficiency,cloud_efficiency,,
+c4.2xlarge,ecs.sn1ne.2xlarge,100,400,Subscription,NewOrder,1,Month,ap-south-1,linux,cloud_efficiency,cloud_efficiency,,
+c4.2xlarge,ecs.sn1ne.2xlarge,100,400,Subscription,NewOrder,1,Month,ap-south-1,linux,cloud_efficiency,cloud_efficiency,,

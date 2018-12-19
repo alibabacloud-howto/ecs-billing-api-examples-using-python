@@ -1,0 +1,4 @@
+Other Cloud Specs,Alibaba Cloud Instance,System_disk_storage,Data_Disk_Storage,Subscription_Type,Billing_Days,Region,OS_Type,System_Disk_Type,Data_Disk_Type,Cost_per_Hour,Cost_for Billing_Days,currency
+qa:fe:2,ecs.se1ne.xlarge,145,1000,PayAsYouGo,1,ap-south-1,linux,cloud_efficiency,cloud_ssd,,,
+analytics-qa:redshift-clickstream:elasticsearch-sinkbox-stream-enrichment,ecs.sn2ne.large,145,100,PayAsYouGo,365,ap-south-1,linux,cloud_efficiency,cloud_ssd,,,
+qa:deploy:jenkins-2.67,ecs.se1ne.xlarge,145,0,PayAsYouGo,200,ap-south-1,linux,cloud_efficiency,cloud_ssd,,,
